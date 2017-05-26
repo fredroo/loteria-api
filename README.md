@@ -10,7 +10,7 @@ Este projeto tem como objetivo fornecer dados da loteria da Caixa Econômica Fed
 
 Baixe o projeto. 
 ```
-git clone git@github.com:marcusesa/loteria-api.git
+git clone https://github.com/marcusesa/loteria-api.git NomeDaPasta
 ```
 
 Execute o build.
